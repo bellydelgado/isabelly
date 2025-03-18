@@ -13,3 +13,17 @@
     display:none;
     }
     
+
+
+
+    @media screen and (min-width: 820px) {
+        .container__titulo, .container_titulo--negrito {
+            font-size: : 30px;
+        }
+        .container__titulo {
+            font-weight: 400;
+            display: block;
+
+
+
+@media screen and (min-width: 1024)
